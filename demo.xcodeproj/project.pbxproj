@@ -15,6 +15,7 @@
 		98C99FF625A75271008C6386 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98C99FF425A75271008C6386 /* LaunchScreen.storyboard */; };
 		98C9A00125A75272008C6386 /* demoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C9A00025A75272008C6386 /* demoTests.swift */; };
 		98C9A00C25A75272008C6386 /* demoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C9A00B25A75272008C6386 /* demoUITests.swift */; };
+		98C9A01D25A7532E008C6386 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 98C9A01C25A7532E008C6386 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		98C9A00725A75272008C6386 /* demoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		98C9A00B25A75272008C6386 /* demoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoUITests.swift; sourceTree = "<group>"; };
 		98C9A00D25A75272008C6386 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98C9A01C25A7532E008C6386 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		98C99FDD25A75270008C6386 = {
 			isa = PBXGroup;
 			children = (
+				98C9A01C25A7532E008C6386 /* .gitignore */,
 				98C99FE825A75270008C6386 /* demo */,
 				98C99FFF25A75272008C6386 /* demoTests */,
 				98C9A00A25A75272008C6386 /* demoUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98C9A01D25A7532E008C6386 /* .gitignore in Resources */,
 				98C99FF625A75271008C6386 /* LaunchScreen.storyboard in Resources */,
 				98C99FF325A75271008C6386 /* Assets.xcassets in Resources */,
 				98C99FF125A75270008C6386 /* Main.storyboard in Resources */,
